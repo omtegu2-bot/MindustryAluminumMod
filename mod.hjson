@@ -1,10 +1,10 @@
 name: "omtegu"
-displayName: "Alu: A New Place"
+displayName: "Extendustry"
 author: Omtegu
-description: "Omtegu's Mod
+description: "Omtegu's Mod, made for the purpose of massively extending production lines and offering new resources.
 Credit to Hunter200 for the Alupower sprite and Agile sprite. Slommy for Gallium Producer sprite tweaks, finalized sprite. Wojti for early playtesting and feedback. Wojti also provided
 assistance with map creation, and sprite development"
-version: "a0.1.1"
+version: "a0.1.0"
 minGameVersion: "146"
 dependencies: [ ]
 hidden: false
