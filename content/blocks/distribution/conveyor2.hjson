@@ -1,12 +1,13 @@
 type: Conveyor
 name: "Aluminum Conveyor"
 size: 1
-speed:0.03
-junctionReplacement:junction2
+speed:0.15f
+junctionReplacement:junction
 moveTime: 20
 interp: linear
 research:alu
 category:distribution
 requirements: [
    alu/1
+   titanium/1
 ]
