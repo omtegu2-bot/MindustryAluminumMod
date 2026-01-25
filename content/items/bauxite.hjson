@@ -3,5 +3,6 @@ name:Bauxite
 color: A52A2A
 research:viocite
 shownPlanets: [
-    test
+    test,
+    Serpulo
 ]

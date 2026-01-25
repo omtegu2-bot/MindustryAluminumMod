@@ -4,5 +4,6 @@ desc:Green, slightly radioactive ore.
 color: 3cff49
 research:bauxite
 shownPlanets: [
-    test
+    test,
+    Serpulo
 ]

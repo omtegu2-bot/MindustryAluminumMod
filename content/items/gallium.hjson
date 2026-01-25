@@ -3,5 +3,6 @@ name:Gallium
 color: C0C0C0
 research:bauxite
 shownPlanets: [
-    test
+    test,
+    Serpulo
 ]

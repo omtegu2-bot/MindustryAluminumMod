@@ -3,5 +3,6 @@ name: Viocite
 color: A020F0
 research:alu
 shownPlanets: [
-    test
+    test,
+    Serpulo
 ]
