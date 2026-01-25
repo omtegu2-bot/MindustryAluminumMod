@@ -1,7 +1,7 @@
 hardness: 1
 name:Gallium
 color: C0C0C0
-research:bauxite
+research:alu
 shownPlanets: [
     test,
     serpulo

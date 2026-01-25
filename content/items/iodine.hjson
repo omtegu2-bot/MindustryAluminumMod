@@ -1,7 +1,7 @@
 hardness: 0
 name:Aluminum
-color: fffffe
-research:aluminumcopper
+color: 7a4fa1
+research:alu
 shownPlanets: [
     serpulo,
     test

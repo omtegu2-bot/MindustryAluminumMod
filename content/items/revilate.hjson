@@ -2,7 +2,7 @@ hardness: 3
 name:Revilate
 desc: Forged from Gallium and Viocite, fractilizes up close.
 color: 4BB7BA
-research:gallium
+research:alu
 shownPlanets: [
     test,
     serpulo

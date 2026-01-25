@@ -15,7 +15,7 @@ consumes: {
   }
 }
 category: production
-research:core-alu
+research:alu
 requirements: [
  alu/12
 ]

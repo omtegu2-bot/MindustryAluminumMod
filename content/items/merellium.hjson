@@ -2,7 +2,7 @@ hardness: 3
 name:Merellium
 desc:Green, slightly radioactive ore.
 color: 3cff49
-research:bauxite
+research:alu
 shownPlanets: [
     test,
     serpulo
