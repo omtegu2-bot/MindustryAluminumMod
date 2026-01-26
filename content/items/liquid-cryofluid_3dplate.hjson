@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-cryofluid 3dplate
 color: 9ecbe9
-research: aluminumcopper
+research: liquid-cryofluid_plate
 shownPlanets: [
     serpulo, test
 ]

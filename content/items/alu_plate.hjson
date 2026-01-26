@@ -1,7 +1,7 @@
 hardness: 0
 name: alu plate
-color: c0bec1
-research: aluminumcopper
+color: 6e6a6e
+research: alu_bolt
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-arkycite 3dplate
 color: 9db85f
-research: aluminumcopper
+research: liquid-arkycite_plate
 shownPlanets: [
     serpulo, test
 ]

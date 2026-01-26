@@ -1,7 +1,7 @@
 hardness: 0
 name: item-beryllium bolt
-color: 62a66b
-research: aluminumcopper
+color: 5ea36a
+research: item-beryllium
 shownPlanets: [
     serpulo, test
 ]

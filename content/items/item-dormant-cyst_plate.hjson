@@ -1,7 +1,7 @@
 hardness: 0
 name: item-dormant-cyst plate
 color: e49655
-research: aluminumcopper
+research: item-dormant-cyst_bolt
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-nitrogen wafer
-color: e2d6f3
-research: aluminumcopper
+color: eee9f5
+research: liquid-nitrogen_bolt
 shownPlanets: [
     serpulo, test
 ]

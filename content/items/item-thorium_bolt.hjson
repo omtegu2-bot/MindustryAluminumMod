@@ -1,7 +1,7 @@
 hardness: 0
 name: item-thorium bolt
-color: e097c2
-research: aluminumcopper
+color: d1a8c2
+research: item-thorium
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: pill bolt
-color: b095c4
-research: aluminumcopper
+color: 9f8fc9
+research: pill
 shownPlanets: [
     serpulo, test
 ]

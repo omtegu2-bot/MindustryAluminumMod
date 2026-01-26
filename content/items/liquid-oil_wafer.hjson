@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-oil wafer
 color: 454543
-research: aluminumcopper
+research: liquid-oil_bolt
 shownPlanets: [
     serpulo, test
 ]

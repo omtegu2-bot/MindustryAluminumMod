@@ -1,7 +1,7 @@
 hardness: 0
 name: item-metaglass bolt
-color: eeeff4
-research: aluminumcopper
+color: edeef4
+research: item-metaglass
 shownPlanets: [
     serpulo, test
 ]

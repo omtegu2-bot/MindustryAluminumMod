@@ -1,7 +1,7 @@
 hardness: 0
 name: merellium bolt
-color: 77d98a
-research: aluminumcopper
+color: 76d889
+research: merellium
 shownPlanets: [
     serpulo, test
 ]

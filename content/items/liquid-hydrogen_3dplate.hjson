@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-hydrogen 3dplate
-color: b6c6fb
-research: aluminumcopper
+color: c9d1ee
+research: liquid-hydrogen_plate
 shownPlanets: [
     serpulo, test
 ]

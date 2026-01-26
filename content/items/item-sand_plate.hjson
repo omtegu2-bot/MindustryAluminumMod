@@ -1,7 +1,7 @@
 hardness: 0
 name: item-sand plate
-color: e7be9a
-research: aluminumcopper
+color: f5cb9c
+research: item-sand_bolt
 shownPlanets: [
     serpulo, test
 ]

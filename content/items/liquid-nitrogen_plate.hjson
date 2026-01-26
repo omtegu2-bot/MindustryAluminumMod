@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-nitrogen plate
-color: e6dbf5
-research: aluminumcopper
+color: efeaf4
+research: liquid-nitrogen_bolt
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: Revilate bolt
-color: d0989c
-research: aluminumcopper
+color: b03d42
+research: Revilate
 shownPlanets: [
     serpulo, test
 ]

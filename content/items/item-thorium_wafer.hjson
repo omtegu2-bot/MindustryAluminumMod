@@ -1,7 +1,7 @@
 hardness: 0
 name: item-thorium wafer
-color: e298c3
-research: aluminumcopper
+color: cbaac1
+research: item-thorium_bolt
 shownPlanets: [
     serpulo, test
 ]

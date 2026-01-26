@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-gallium bolt
-color: b4b4c5
-research: aluminumcopper
+color: b0b1c3
+research: liquid-gallium
 shownPlanets: [
     serpulo, test
 ]

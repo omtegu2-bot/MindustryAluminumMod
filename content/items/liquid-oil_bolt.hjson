@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-oil bolt
-color: 424241
-research: aluminumcopper
+color: 40403f
+research: liquid-oil
 shownPlanets: [
     serpulo, test
 ]

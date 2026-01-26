@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-cryofluid bolt
-color: 9ac9e8
-research: aluminumcopper
+color: 97c9e8
+research: liquid-cryofluid
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: item-copper plate
 color: ddaa8e
-research: aluminumcopper
+research: item-copper_bolt
 shownPlanets: [
     serpulo, test
 ]

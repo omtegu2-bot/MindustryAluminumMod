@@ -1,7 +1,7 @@
 hardness: 0
 name: gallium plate
 color: c9ccd5
-research: aluminumcopper
+research: gallium_bolt
 shownPlanets: [
     serpulo, test
 ]

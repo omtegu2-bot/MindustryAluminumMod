@@ -1,7 +1,7 @@
 hardness: 0
 name: fence 3dplate
 color: d25c37
-research: aluminumcopper
+research: fence_plate
 shownPlanets: [
     serpulo, test
 ]

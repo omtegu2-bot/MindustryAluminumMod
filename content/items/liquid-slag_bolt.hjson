@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-slag bolt
-color: f8d47e
-research: aluminumcopper
+color: f8d27b
+research: liquid-slag
 shownPlanets: [
     serpulo, test
 ]

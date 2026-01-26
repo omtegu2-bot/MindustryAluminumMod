@@ -1,7 +1,7 @@
 hardness: 0
 name: bauxite bolt
-color: d86457
-research: aluminumcopper
+color: d66356
+research: bauxite
 shownPlanets: [
     serpulo, test
 ]

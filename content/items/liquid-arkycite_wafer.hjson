@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-arkycite wafer
 color: 9eb95f
-research: aluminumcopper
+research: liquid-arkycite_bolt
 shownPlanets: [
     serpulo, test
 ]

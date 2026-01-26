@@ -1,7 +1,7 @@
 hardness: 0
 name: bauxite plate
 color: e16858
-research: aluminumcopper
+research: bauxite_bolt
 shownPlanets: [
     serpulo, test
 ]

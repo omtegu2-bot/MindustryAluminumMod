@@ -1,7 +1,7 @@
 hardness: 0
 name: item-phase-fabric wafer
 color: fcd8b5
-research: aluminumcopper
+research: item-phase-fabric_bolt
 shownPlanets: [
     serpulo, test
 ]

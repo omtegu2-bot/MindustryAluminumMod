@@ -1,7 +1,7 @@
 hardness: 0
 name: test bolt
-color: 909092
-research: aluminumcopper
+color: 2a2b30
+research: test
 shownPlanets: [
     serpulo, test
 ]

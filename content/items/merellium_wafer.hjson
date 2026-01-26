@@ -1,7 +1,7 @@
 hardness: 0
 name: merellium wafer
 color: 78dc8a
-research: aluminumcopper
+research: merellium_bolt
 shownPlanets: [
     serpulo, test
 ]

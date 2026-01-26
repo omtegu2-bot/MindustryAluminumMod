@@ -1,7 +1,7 @@
 hardness: 0
 name: Revilate plate
-color: dcafb2
-research: aluminumcopper
+color: ba444b
+research: Revilate_bolt
 shownPlanets: [
     serpulo, test
 ]

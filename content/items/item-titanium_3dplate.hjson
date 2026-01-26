@@ -1,7 +1,7 @@
 hardness: 0
 name: item-titanium 3dplate
 color: 94a2ea
-research: aluminumcopper
+research: item-titanium_plate
 shownPlanets: [
     serpulo, test
 ]

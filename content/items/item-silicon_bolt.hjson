@@ -1,7 +1,7 @@
 hardness: 0
 name: item-silicon bolt
 color: 737580
-research: aluminumcopper
+research: item-silicon
 shownPlanets: [
     serpulo, test
 ]

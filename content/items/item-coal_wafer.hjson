@@ -1,7 +1,7 @@
 hardness: 0
 name: item-coal wafer
-color: 353535
-research: aluminumcopper
+color: 393737
+research: item-coal_bolt
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: item-tungsten 3dplate
 color: 8393aa
-research: aluminumcopper
+research: item-tungsten_plate
 shownPlanets: [
     serpulo, test
 ]

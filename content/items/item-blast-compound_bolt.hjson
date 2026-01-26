@@ -1,7 +1,7 @@
 hardness: 0
 name: item-blast-compound bolt
-color: e16957
-research: aluminumcopper
+color: e77857
+research: item-blast-compound
 shownPlanets: [
     serpulo, test
 ]

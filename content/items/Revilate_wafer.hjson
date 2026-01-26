@@ -1,7 +1,7 @@
 hardness: 0
 name: Revilate wafer
-color: d7a2a6
-research: aluminumcopper
+color: b64147
+research: Revilate_bolt
 shownPlanets: [
     serpulo, test
 ]

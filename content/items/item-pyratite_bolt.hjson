@@ -1,7 +1,7 @@
 hardness: 0
 name: item-pyratite bolt
-color: e79252
-research: aluminumcopper
+color: f59f5c
+research: item-pyratite
 shownPlanets: [
     serpulo, test
 ]

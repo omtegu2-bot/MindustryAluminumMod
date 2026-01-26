@@ -1,7 +1,7 @@
 hardness: 0
 name: item-copper bolt
-color: d9a386
-research: aluminumcopper
+color: d9a284
+research: item-copper
 shownPlanets: [
     serpulo, test
 ]

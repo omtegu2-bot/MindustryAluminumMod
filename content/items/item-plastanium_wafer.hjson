@@ -1,7 +1,7 @@
 hardness: 0
 name: item-plastanium wafer
 color: d3df8f
-research: aluminumcopper
+research: item-plastanium_bolt
 shownPlanets: [
     serpulo, test
 ]

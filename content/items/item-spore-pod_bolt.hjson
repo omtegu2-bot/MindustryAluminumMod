@@ -1,7 +1,7 @@
 hardness: 0
 name: item-spore-pod bolt
-color: 8061cd
-research: aluminumcopper
+color: 7e5fcd
+research: item-spore-pod
 shownPlanets: [
     serpulo, test
 ]

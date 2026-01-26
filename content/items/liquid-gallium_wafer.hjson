@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-gallium wafer
 color: babaca
-research: aluminumcopper
+research: liquid-gallium_bolt
 shownPlanets: [
     serpulo, test
 ]

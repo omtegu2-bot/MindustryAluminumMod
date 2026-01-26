@@ -1,7 +1,7 @@
 hardness: 0
 name: item-beryllium wafer
 color: 66ac6d
-research: aluminumcopper
+research: item-beryllium_bolt
 shownPlanets: [
     serpulo, test
 ]

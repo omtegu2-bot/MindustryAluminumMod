@@ -1,7 +1,7 @@
 hardness: 0
 name: item-oxide bolt
-color: bfd6a7
-research: aluminumcopper
+color: e0e9c3
+research: item-oxide
 shownPlanets: [
     serpulo, test
 ]

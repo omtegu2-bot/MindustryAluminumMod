@@ -1,7 +1,7 @@
 hardness: 0
 name: item-pyratite plate
-color: ec9754
-research: aluminumcopper
+color: f7a05e
+research: item-pyratite_bolt
 shownPlanets: [
     serpulo, test
 ]

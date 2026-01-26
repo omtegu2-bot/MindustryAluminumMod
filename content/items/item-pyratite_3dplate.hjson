@@ -1,7 +1,7 @@
 hardness: 0
 name: item-pyratite 3dplate
-color: ea9653
-research: aluminumcopper
+color: f59e5c
+research: item-pyratite_plate
 shownPlanets: [
     serpulo, test
 ]

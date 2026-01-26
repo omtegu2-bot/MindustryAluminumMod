@@ -1,7 +1,7 @@
 hardness: 0
 name: item-plastanium bolt
-color: d0dd8c
-research: aluminumcopper
+color: cfdc8a
+research: item-plastanium
 shownPlanets: [
     serpulo, test
 ]

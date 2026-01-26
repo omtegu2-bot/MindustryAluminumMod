@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-neoplasm 3dplate
 color: de653e
-research: aluminumcopper
+research: liquid-neoplasm_plate
 shownPlanets: [
     serpulo, test
 ]

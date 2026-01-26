@@ -1,7 +1,7 @@
 hardness: 0
 name: item-graphite bolt
-color: 7c8db9
-research: aluminumcopper
+color: 7a8ab6
+research: item-graphite
 shownPlanets: [
     serpulo, test
 ]

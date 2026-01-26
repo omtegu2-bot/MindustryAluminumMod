@@ -1,7 +1,7 @@
 hardness: 0
 name: test 3dplate
-color: 9c9c9d
-research: aluminumcopper
+color: 2b2b2f
+research: test_plate
 shownPlanets: [
     serpulo, test
 ]

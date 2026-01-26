@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-neoplasm plate
 color: e36b40
-research: aluminumcopper
+research: liquid-neoplasm_bolt
 shownPlanets: [
     serpulo, test
 ]

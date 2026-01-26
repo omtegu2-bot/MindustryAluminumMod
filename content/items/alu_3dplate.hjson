@@ -1,7 +1,7 @@
 hardness: 0
 name: alu 3dplate
-color: b7b5b8
-research: aluminumcopper
+color: 6b676b
+research: alu_plate
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: alu bolt
-color: aeacaf
-research: aluminumcopper
+color: 666264
+research: alu
 shownPlanets: [
     serpulo, test
 ]

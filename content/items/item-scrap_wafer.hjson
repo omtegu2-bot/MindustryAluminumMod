@@ -1,7 +1,7 @@
 hardness: 0
 name: item-scrap wafer
 color: b49a85
-research: aluminumcopper
+research: item-scrap_bolt
 shownPlanets: [
     serpulo, test
 ]

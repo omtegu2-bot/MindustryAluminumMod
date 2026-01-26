@@ -1,7 +1,7 @@
 hardness: 0
 name: liquid-water bolt
-color: 5671ce
-research: aluminumcopper
+color: 5470ce
+research: liquid-water
 shownPlanets: [
     serpulo, test
 ]

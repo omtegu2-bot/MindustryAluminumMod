@@ -1,7 +1,7 @@
 hardness: 0
 name: item-fissile-matter plate
 color: 74a695
-research: aluminumcopper
+research: item-fissile-matter_bolt
 shownPlanets: [
     serpulo, test
 ]

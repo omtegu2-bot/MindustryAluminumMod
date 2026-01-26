@@ -1,7 +1,7 @@
 hardness: 0
 name: item-sand 3dplate
-color: e6bd99
-research: aluminumcopper
+color: f3c99b
+research: item-sand_plate
 shownPlanets: [
     serpulo, test
 ]

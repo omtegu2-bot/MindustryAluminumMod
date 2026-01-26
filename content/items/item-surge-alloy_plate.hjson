@@ -1,7 +1,7 @@
 hardness: 0
 name: item-surge-alloy plate
 color: f1dc7d
-research: aluminumcopper
+research: item-surge-alloy_bolt
 shownPlanets: [
     serpulo, test
 ]
