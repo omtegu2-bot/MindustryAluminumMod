@@ -1,7 +1,0 @@
-hardness: 0
-name: iodine 2router
-color: db85c8
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

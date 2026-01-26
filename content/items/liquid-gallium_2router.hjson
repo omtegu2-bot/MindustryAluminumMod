@@ -1,7 +1,0 @@
-hardness: 0
-name: liquid-gallium 2router
-color: 9e9eb8
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

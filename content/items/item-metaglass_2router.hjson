@@ -1,7 +1,0 @@
-hardness: 0
-name: item-metaglass 2router
-color: e8eaf1
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

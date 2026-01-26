@@ -1,7 +1,0 @@
-hardness: 0
-name: item-dormant-cyst 2router
-color: d77c4a
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

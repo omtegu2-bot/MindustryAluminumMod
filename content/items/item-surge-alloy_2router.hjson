@@ -1,7 +1,0 @@
-hardness: 0
-name: item-surge-alloy 2router
-color: e8cb75
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

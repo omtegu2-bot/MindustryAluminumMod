@@ -1,7 +1,0 @@
-hardness: 0
-name: liquid-ozone 2router
-color: fc8ddb
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

@@ -1,7 +1,0 @@
-hardness: 0
-name: liquid-nitrogen 2router
-color: d2bdec
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

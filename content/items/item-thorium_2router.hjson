@@ -1,7 +1,0 @@
-hardness: 0
-name: item-thorium 2router
-color: d492c0
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

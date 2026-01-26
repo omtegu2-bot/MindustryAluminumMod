@@ -1,7 +1,0 @@
-hardness: 0
-name: item-pyratite 2router
-color: dc884c
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

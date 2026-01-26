@@ -1,7 +1,0 @@
-hardness: 0
-name: gallium 2router
-color: b2b4c0
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

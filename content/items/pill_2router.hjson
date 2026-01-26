@@ -1,7 +1,0 @@
-hardness: 0
-name: pill 2router
-color: 766dbf
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]
