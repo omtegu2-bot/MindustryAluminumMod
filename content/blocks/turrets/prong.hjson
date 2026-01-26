@@ -26,6 +26,19 @@ ammoTypes: {
     height: 7
     hitEffect: hitBulletBig
   }
+    alu_bolt: {
+    type: PointBulletType
+    collidesGround: true
+    targetsAir:false
+    damage: 30
+    splashDamage: 20
+    splashDamageRadius: 12
+    speed: 10
+    lifetime: 100
+    width: 7
+    height: 7
+    hitEffect: hitBulletBig
+  }
   gallium: {
     type: PointBulletType
     collidesGround: true

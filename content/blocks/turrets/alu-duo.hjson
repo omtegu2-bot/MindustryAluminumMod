@@ -37,6 +37,18 @@ ammoTypes: {
     height: 7
     hitEffect: hitBulletSmall
   }
+    alu_bolt: {
+    type: BasicBulletType
+    collidesGround: true
+    damage: 30
+    splashDamage: 3
+    splashDamageRadius: 5
+    speed: 10
+    lifetime: 80
+    width: 7
+    height: 7
+    hitEffect: hitBulletSmall
+  }
   gallium: {
     type: BasicBulletType
     collidesGround: true
@@ -51,7 +63,8 @@ ammoTypes: {
   }
 }
 category:turret
-research:core-alu
+research:alu_bolt
 requirements: [
   alu/20
+  alu_bolt/20
 ]

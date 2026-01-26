@@ -1,0 +1,38 @@
+type: GenericCrafter
+name: Revilate Crafter
+description: Creates revilate from Aluminum, Viocite, and water.
+size: 2
+consumes: {
+  items: [
+    alu/2
+  ]
+  power:1
+}
+outputItem: alu_bolt/1
+category: crafting
+research: alu
+requirements: [
+  viocite/20
+  alu/50
+  trateium/10
+]
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawParticles
+      color: eeffaa
+      alpha: 0.85
+      particleSize: 3
+      particles: 30
+      particleRad: 12
+      particleLife: 60
+    }
+  ]
+}
+ambientSound: hum
+ambientSoundVolume: 0.05
+itemCapacity: 50

@@ -5,9 +5,10 @@ speed:0.15f
 junctionReplacement:junction
 moveTime: 20
 interp: linear
-research:alu
+research:alu_bolt
 category:distribution
 requirements: [
    alu/1
    titanium/1
+   alu_bolt/4
 ]
