@@ -1,0 +1,7 @@
+hardness: 0
+name: item-scrap 2router
+color: 9c8d82
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

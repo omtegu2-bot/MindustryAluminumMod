@@ -1,0 +1,7 @@
+hardness: 0
+name: item-lead plate
+color: 998aba
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

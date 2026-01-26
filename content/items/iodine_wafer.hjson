@@ -1,0 +1,7 @@
+hardness: 0
+name: iodine wafer
+color: e48fc7
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

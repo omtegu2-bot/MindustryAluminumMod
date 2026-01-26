@@ -1,0 +1,7 @@
+hardness: 0
+name: item-carbide 2router
+color: 88749c
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

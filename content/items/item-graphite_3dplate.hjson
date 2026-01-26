@@ -1,0 +1,7 @@
+hardness: 0
+name: item-graphite 3dplate
+color: 7f91bd
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

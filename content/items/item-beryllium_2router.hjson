@@ -1,0 +1,7 @@
+hardness: 0
+name: item-beryllium 2router
+color: 4c9164
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: pill plate
+color: bdadd4
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

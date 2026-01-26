@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-hydrogen 2router
+color: a3b2f8
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

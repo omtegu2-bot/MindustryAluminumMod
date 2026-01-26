@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-neoplasm bolt
+color: dc613d
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

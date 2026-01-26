@@ -1,0 +1,7 @@
+hardness: 0
+name: item-fissile-matter 2router
+color: 629483
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-cyanogen wafer
+color: 75d7bc
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

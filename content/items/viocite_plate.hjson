@@ -1,0 +1,7 @@
+hardness: 0
+name: viocite plate
+color: 896dae
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

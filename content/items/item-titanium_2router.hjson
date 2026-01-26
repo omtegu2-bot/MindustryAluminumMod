@@ -1,0 +1,7 @@
+hardness: 0
+name: item-titanium 2router
+color: 8e99e3
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

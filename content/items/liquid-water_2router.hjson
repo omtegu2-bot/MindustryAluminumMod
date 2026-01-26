@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-water 2router
+color: 4c67c6
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

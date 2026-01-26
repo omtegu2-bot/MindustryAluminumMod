@@ -1,0 +1,7 @@
+hardness: 0
+name: pill wafer
+color: b0a1d0
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

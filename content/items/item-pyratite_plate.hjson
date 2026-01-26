@@ -1,0 +1,7 @@
+hardness: 0
+name: item-pyratite plate
+color: ec9754
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

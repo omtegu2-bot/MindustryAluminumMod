@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-oil 3dplate
+color: 464644
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

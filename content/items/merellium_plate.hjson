@@ -1,0 +1,7 @@
+hardness: 0
+name: merellium plate
+color: 79df8b
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

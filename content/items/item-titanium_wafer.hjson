@@ -1,0 +1,7 @@
+hardness: 0
+name: item-titanium wafer
+color: 95a4ea
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

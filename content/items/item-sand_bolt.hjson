@@ -1,0 +1,7 @@
+hardness: 0
+name: item-sand bolt
+color: e3bb97
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

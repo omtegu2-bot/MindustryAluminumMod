@@ -1,0 +1,7 @@
+hardness: 0
+name: item-tungsten 2router
+color: 74859b
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

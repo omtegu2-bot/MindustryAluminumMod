@@ -1,0 +1,7 @@
+hardness: 0
+name: gallium bolt
+color: bfc1ca
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

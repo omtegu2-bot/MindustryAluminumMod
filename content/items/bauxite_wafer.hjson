@@ -1,0 +1,7 @@
+hardness: 0
+name: bauxite wafer
+color: dc6657
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

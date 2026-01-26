@@ -1,0 +1,7 @@
+hardness: 0
+name: gallium plate
+color: c9ccd5
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

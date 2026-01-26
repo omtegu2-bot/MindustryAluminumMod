@@ -1,0 +1,7 @@
+hardness: 0
+name: fence wafer
+color: d35d3b
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

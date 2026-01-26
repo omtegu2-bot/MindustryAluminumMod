@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-slag 2router
+color: f7c56e
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

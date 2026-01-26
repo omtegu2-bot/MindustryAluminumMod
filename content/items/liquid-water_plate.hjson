@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-water plate
+color: 5c78d5
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

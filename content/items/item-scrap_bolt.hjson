@@ -1,0 +1,7 @@
+hardness: 0
+name: item-scrap bolt
+color: ae9683
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

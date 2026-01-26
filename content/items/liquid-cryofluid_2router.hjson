@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-cryofluid 2router
+color: 8bc0e2
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

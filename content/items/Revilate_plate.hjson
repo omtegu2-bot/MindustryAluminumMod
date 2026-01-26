@@ -1,0 +1,7 @@
+hardness: 0
+name: Revilate plate
+color: dcafb2
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

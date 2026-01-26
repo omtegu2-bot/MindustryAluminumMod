@@ -1,0 +1,7 @@
+hardness: 0
+name: item-copper wafer
+color: dba78a
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

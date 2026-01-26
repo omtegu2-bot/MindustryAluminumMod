@@ -1,0 +1,7 @@
+hardness: 0
+name: iodine bolt
+color: e08bc6
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-neoplasm wafer
+color: e0663e
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

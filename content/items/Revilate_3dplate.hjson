@@ -1,0 +1,7 @@
+hardness: 0
+name: Revilate 3dplate
+color: d3a4a7
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

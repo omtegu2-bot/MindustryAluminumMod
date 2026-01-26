@@ -1,0 +1,7 @@
+hardness: 0
+name: item-tungsten bolt
+color: 7f90a7
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

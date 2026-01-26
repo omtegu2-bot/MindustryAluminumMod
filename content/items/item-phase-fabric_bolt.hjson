@@ -1,0 +1,7 @@
+hardness: 0
+name: item-phase-fabric bolt
+color: fbd4b1
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

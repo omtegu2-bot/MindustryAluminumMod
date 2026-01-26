@@ -1,0 +1,7 @@
+hardness: 0
+name: alu wafer
+color: b6b4b7
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

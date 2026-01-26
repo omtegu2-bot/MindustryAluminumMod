@@ -1,0 +1,7 @@
+hardness: 0
+name: item-oxide wafer
+color: c2d9ab
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

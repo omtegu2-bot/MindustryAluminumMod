@@ -1,0 +1,7 @@
+hardness: 0
+name: item-carbide bolt
+color: 9981a8
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

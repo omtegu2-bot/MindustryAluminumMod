@@ -1,0 +1,7 @@
+hardness: 0
+name: fence bolt
+color: d15a3b
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-cyanogen 3dplate
+color: 77d9bc
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

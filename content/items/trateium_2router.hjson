@@ -1,0 +1,7 @@
+hardness: 0
+name: trateium 2router
+color: 7180ab
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

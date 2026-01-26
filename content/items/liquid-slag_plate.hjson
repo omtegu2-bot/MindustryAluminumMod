@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-slag plate
+color: fade86
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

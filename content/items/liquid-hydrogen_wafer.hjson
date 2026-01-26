@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-hydrogen wafer
+color: b4c5fb
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

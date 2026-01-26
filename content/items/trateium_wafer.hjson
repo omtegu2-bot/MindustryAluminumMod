@@ -1,0 +1,7 @@
+hardness: 0
+name: trateium wafer
+color: 7e8fbc
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

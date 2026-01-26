@@ -1,0 +1,7 @@
+hardness: 0
+name: item-fissile-matter bolt
+color: 6e9e8d
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

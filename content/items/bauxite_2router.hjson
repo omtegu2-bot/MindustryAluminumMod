@@ -1,0 +1,7 @@
+hardness: 0
+name: bauxite 2router
+color: c95c54
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: viocite wafer
+color: 8769ab
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

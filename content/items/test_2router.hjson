@@ -1,0 +1,7 @@
+hardness: 0
+name: test 2router
+color: 666668
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

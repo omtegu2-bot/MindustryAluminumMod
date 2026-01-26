@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-hydrogen plate
+color: b8c9fb
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

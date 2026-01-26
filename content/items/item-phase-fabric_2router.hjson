@@ -1,0 +1,7 @@
+hardness: 0
+name: item-phase-fabric 2router
+color: fbcba3
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: item-pyratite wafer
+color: e99453
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

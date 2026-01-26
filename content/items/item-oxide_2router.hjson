@@ -1,0 +1,7 @@
+hardness: 0
+name: item-oxide 2router
+color: aec392
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

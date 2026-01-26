@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-slag wafer
+color: f9d981
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

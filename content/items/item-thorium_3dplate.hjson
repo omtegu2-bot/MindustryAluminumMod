@@ -1,0 +1,7 @@
+hardness: 0
+name: item-thorium 3dplate
+color: e399c3
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

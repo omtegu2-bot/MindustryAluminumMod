@@ -1,0 +1,7 @@
+hardness: 0
+name: item-silicon 2router
+color: 6c6e7b
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

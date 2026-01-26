@@ -1,0 +1,7 @@
+hardness: 0
+name: item-dormant-cyst bolt
+color: de8c51
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

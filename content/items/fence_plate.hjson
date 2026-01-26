@@ -1,0 +1,7 @@
+hardness: 0
+name: fence plate
+color: d45f37
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

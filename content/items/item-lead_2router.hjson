@@ -1,0 +1,7 @@
+hardness: 0
+name: item-lead 2router
+color: 8b7ea7
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: trateium plate
+color: 8193c0
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

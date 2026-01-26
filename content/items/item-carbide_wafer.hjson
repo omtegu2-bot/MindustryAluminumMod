@@ -1,0 +1,7 @@
+hardness: 0
+name: item-carbide wafer
+color: 9f85ab
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

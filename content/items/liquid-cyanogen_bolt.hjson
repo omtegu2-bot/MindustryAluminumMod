@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-cyanogen bolt
+color: 73d5bd
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

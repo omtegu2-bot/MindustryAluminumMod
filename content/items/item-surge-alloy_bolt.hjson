@@ -1,0 +1,7 @@
+hardness: 0
+name: item-surge-alloy bolt
+color: edd57a
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

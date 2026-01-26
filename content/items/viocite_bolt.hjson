@@ -1,0 +1,7 @@
+hardness: 0
+name: viocite bolt
+color: 8265a7
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

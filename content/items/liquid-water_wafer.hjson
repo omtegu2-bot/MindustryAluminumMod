@@ -1,0 +1,7 @@
+hardness: 0
+name: liquid-water wafer
+color: 5975d2
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

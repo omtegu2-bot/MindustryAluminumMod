@@ -1,0 +1,7 @@
+hardness: 0
+name: item-sand 2router
+color: dab491
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

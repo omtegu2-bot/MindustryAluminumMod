@@ -1,0 +1,7 @@
+hardness: 0
+name: item-spore-pod 2router
+color: 7558c9
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

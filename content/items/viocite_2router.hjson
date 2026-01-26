@@ -1,0 +1,7 @@
+hardness: 0
+name: viocite 2router
+color: 7f58a0
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

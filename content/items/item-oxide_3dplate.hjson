@@ -1,0 +1,7 @@
+hardness: 0
+name: item-oxide 3dplate
+color: c4dbae
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

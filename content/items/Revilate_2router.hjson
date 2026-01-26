@@ -1,0 +1,7 @@
+hardness: 0
+name: Revilate 2router
+color: c46d73
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

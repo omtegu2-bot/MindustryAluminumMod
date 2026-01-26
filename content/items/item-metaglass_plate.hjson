@@ -1,0 +1,7 @@
+hardness: 0
+name: item-metaglass plate
+color: f2f2f7
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]
