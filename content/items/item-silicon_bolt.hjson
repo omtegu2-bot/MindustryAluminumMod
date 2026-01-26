@@ -1,7 +1,7 @@
 hardness: 0
 name: item-silicon bolt
 color: 737580
-research: item-silicon
+research: silicon
 shownPlanets: [
     serpulo, test
 ]

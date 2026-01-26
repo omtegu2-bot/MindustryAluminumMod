@@ -1,7 +1,7 @@
 hardness: 0
 name: item-beryllium 3dplate
 color: 69ab6d
-research: item-beryllium_plate
+research: beryllium_plate
 shownPlanets: [
     serpulo, test
 ]

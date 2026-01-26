@@ -1,7 +1,7 @@
 hardness: 0
 name: item-titanium wafer
 color: 95a3ea
-research: item-titanium_bolt
+research: titanium_bolt
 shownPlanets: [
     serpulo, test
 ]

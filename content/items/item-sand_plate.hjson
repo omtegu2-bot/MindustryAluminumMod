@@ -1,7 +1,7 @@
 hardness: 0
 name: item-sand plate
 color: f5cb9c
-research: item-sand_bolt
+research: sand_bolt
 shownPlanets: [
     serpulo, test
 ]

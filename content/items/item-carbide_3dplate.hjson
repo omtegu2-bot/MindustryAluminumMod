@@ -1,7 +1,7 @@
 hardness: 0
 name: item-carbide 3dplate
 color: 9e84ab
-research: item-carbide_plate
+research: carbide_plate
 shownPlanets: [
     serpulo, test
 ]

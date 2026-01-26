@@ -1,7 +1,7 @@
 hardness: 0
 name: item-pyratite wafer
 color: f69f5d
-research: item-pyratite_bolt
+research: pyratite_bolt
 shownPlanets: [
     serpulo, test
 ]
