@@ -1,7 +1,7 @@
 hardness: 0
 name: item-carbide bolt
 color: 977fa6
-research: item-carbide
+research: carbide
 shownPlanets: [
     serpulo, test
 ]

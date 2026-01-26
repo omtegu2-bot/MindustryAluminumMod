@@ -1,7 +1,7 @@
 hardness: 0
 name: item-sand bolt
 color: f2c89c
-research: item-sand
+research: sand
 shownPlanets: [
     serpulo, test
 ]

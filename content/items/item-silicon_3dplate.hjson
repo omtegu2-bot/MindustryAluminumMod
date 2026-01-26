@@ -1,7 +1,7 @@
 hardness: 0
 name: item-silicon 3dplate
 color: 757782
-research: item-silicon_plate
+research: silicon_plate
 shownPlanets: [
     serpulo, test
 ]

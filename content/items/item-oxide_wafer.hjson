@@ -1,7 +1,7 @@
 hardness: 0
 name: item-oxide wafer
 color: e5eac6
-research: item-oxide_bolt
+research: oxide_bolt
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: item-tungsten plate
 color: 8797ae
-research: item-tungsten_bolt
+research: tungsten_bolt
 shownPlanets: [
     serpulo, test
 ]

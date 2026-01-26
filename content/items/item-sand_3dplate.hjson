@@ -1,7 +1,7 @@
 hardness: 0
 name: item-sand 3dplate
 color: f3c99b
-research: item-sand_plate
+research: sand_plate
 shownPlanets: [
     serpulo, test
 ]

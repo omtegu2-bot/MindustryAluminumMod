@@ -1,7 +1,7 @@
 hardness: 0
 name: item-silicon wafer
 color: 777984
-research: item-silicon_bolt
+research: silicon_bolt
 shownPlanets: [
     serpulo, test
 ]
