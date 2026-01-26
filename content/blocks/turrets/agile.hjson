@@ -27,6 +27,7 @@ category:turret
 research:alupower
 requirements: [
   alu/450
+  alu_bolt/50
   gallium/50
   bauxite/100
 ]

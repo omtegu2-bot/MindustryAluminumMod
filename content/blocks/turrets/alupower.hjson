@@ -28,5 +28,6 @@ research:alu-duo
 requirements: [
   alu/250
   gallium/20
+  alu_bolt/50
 ]
 researchCostMultiplier: 0.5

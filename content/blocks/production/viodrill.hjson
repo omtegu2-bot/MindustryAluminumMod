@@ -2,7 +2,7 @@ type: Drill
 name: Viocite Drill
 size: 2
 tier: 2
-drillTime: 355
+drillTime: 250
 liquidBoostIntensity: 4
 liquidCapacity: 40
 itemCapacity: 40
@@ -18,5 +18,6 @@ category: production
 research:aludrill
 requirements: [
  alu/24
+ alu_bolt/50
  viocite/8
 ]

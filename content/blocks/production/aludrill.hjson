@@ -2,7 +2,7 @@ type: Drill
 name: Aluminum Dril
 size: 2
 tier: 1
-drillTime: 600
+drillTime: 300
 liquidBoostIntensity: 4
 liquidCapacity: 40
 itemCapacity: 40
@@ -15,7 +15,8 @@ consumes: {
   }
 }
 category: production
-research:alu
+research:alu_bolt
 requirements: [
  alu/12
+ alu_bolt/20
 ]

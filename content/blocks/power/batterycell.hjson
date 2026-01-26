@@ -4,12 +4,13 @@ desc: Store battery power for later usage
 health: 65
 size: 1
 consumes: {
-  powerBuffered: 2000
+  powerBuffered: 250000
 }
 requirements: [
   gallium/20
   alu/10
+  alu_bolt/100
 ]
 category: power
-research: Viogen
+research: alu_bolt
 researchCostMultiplier: 0.5

@@ -13,6 +13,7 @@ category: crafting
 research: viodrill
 requirements: [
   bauxite/50
+  alu_bolt/50
   alu/50
   viocite/30
 ]

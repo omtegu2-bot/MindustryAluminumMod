@@ -43,6 +43,7 @@ category:turret
 research:alu-duo
 requirements: [
   alu/50
+  alu_bolt/50
   viocite/20
 ]
 researchCostMultiplier: 0.5

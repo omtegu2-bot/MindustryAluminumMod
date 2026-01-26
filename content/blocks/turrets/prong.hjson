@@ -57,6 +57,7 @@ category:turret
 research:crab
 requirements: [
   alu/150
+  alu_bolt/50
   viocite/40
   gallium/20
 ]

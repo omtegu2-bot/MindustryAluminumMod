@@ -6,12 +6,13 @@ hasItems: true
 itemDuration:60
 size:1
 category: power
-powerProduction: 8
+powerProduction: 80
 research:generator
 consumes: {
     item: viocite
 }
 requirements: [
    alu/30
+   alu_bolt/50
    viocite/50
 ]
