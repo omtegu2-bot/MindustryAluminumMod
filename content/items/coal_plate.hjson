@@ -1,7 +1,0 @@
-hardness: 0
-name: Coal Plate
-color: 3a3737
-research: coal_bolt
-shownPlanets: [
-    serpulo, test
-]

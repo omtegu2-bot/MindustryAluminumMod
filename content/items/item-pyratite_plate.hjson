@@ -1,0 +1,7 @@
+hardness: 0
+name: item-pyratite plate
+color: f7a05e
+research: pyratite_bolt
+shownPlanets: [
+    serpulo, test
+]

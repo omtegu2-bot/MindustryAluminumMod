@@ -1,0 +1,7 @@
+hardness: 0
+name: item-plastanium 3dplate
+color: d2df8f
+research: plastanium_plate
+shownPlanets: [
+    serpulo, test
+]

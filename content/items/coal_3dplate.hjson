@@ -1,7 +1,0 @@
-hardness: 0
-name: Coal 3dplate
-color: 383636
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

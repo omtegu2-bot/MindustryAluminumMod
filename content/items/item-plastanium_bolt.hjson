@@ -1,0 +1,7 @@
+hardness: 0
+name: item-plastanium bolt
+color: cfdc8a
+research: plastanium
+shownPlanets: [
+    serpulo, test
+]

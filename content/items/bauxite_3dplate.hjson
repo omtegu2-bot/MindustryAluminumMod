@@ -1,7 +1,7 @@
 hardness: 0
-name: Bauxite 3dplate
+name: bauxite 3dplate
 color: dc6658
-research: aluminumcopper
+research: bauxite_plate
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,0 @@
-hardness: 0
-name: Plastanium Bolt
-color: cfdc8a
-research: plastanium
-shownPlanets: [
-    serpulo, test
-]

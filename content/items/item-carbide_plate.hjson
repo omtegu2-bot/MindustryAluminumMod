@@ -1,0 +1,7 @@
+hardness: 0
+name: item-carbide plate
+color: a489af
+research: carbide_bolt
+shownPlanets: [
+    serpulo, test
+]

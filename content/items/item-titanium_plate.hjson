@@ -1,0 +1,7 @@
+hardness: 0
+name: item-titanium plate
+color: 97a6ec
+research: titanium_bolt
+shownPlanets: [
+    serpulo, test
+]

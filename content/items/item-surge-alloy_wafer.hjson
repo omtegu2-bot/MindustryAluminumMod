@@ -1,0 +1,7 @@
+hardness: 0
+name: item-surge-alloy wafer
+color: efd97c
+research: surge-alloy_bolt
+shownPlanets: [
+    serpulo, test
+]

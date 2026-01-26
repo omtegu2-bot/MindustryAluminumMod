@@ -1,7 +1,0 @@
-hardness: 0
-name: Scrap Wafer
-color: b49a85
-research: scrap_bolt
-shownPlanets: [
-    serpulo, test
-]

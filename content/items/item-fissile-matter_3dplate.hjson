@@ -1,0 +1,7 @@
+hardness: 0
+name: item-fissile-matter 3dplate
+color: 71a190
+research: fissile-matter_plate
+shownPlanets: [
+    serpulo, test
+]

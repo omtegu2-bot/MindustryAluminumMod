@@ -1,0 +1,7 @@
+hardness: 0
+name: item-lead 3dplate
+color: 9687b5
+research: lead_plate
+shownPlanets: [
+    serpulo, test
+]

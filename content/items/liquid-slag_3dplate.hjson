@@ -1,7 +1,7 @@
 hardness: 0
-name: Liquid-slag 3dplate
+name: liquid-slag 3dplate
 color: f8d782
-research: aluminumcopper
+research: liquid-slag_plate
 shownPlanets: [
     serpulo, test
 ]

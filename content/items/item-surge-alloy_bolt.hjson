@@ -1,0 +1,7 @@
+hardness: 0
+name: item-surge-alloy bolt
+color: edd479
+research: surge-alloy
+shownPlanets: [
+    serpulo, test
+]
