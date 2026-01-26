@@ -1,7 +1,7 @@
 hardness: 0
 name: item-scrap plate
 color: ba9d85
-research: scrap_bolt
+research: item-scrap_bolt
 shownPlanets: [
     serpulo, test
 ]

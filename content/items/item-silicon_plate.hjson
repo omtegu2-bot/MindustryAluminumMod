@@ -1,7 +1,7 @@
 hardness: 0
 name: item-silicon plate
 color: 797c86
-research: silicon_bolt
+research: item-silicon_bolt
 shownPlanets: [
     serpulo, test
 ]

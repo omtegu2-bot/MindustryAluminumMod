@@ -1,7 +1,7 @@
 hardness: 0
 name: item-lead wafer
 color: 9688b6
-research: lead_bolt
+research: item-lead_bolt
 shownPlanets: [
     serpulo, test
 ]

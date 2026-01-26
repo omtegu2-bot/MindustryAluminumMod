@@ -1,7 +1,7 @@
 hardness: 0
 name: item-blast-compound bolt
 color: e77857
-research: blast-compound
+research: item-blast-compound
 shownPlanets: [
     serpulo, test
 ]

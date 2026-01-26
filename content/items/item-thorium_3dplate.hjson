@@ -1,7 +1,7 @@
 hardness: 0
 name: item-thorium 3dplate
 color: c7aac1
-research: thorium_plate
+research: item-thorium_plate
 shownPlanets: [
     serpulo, test
 ]

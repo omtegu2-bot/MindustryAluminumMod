@@ -1,7 +1,7 @@
 hardness: 0
 name: item-scrap bolt
 color: ac9583
-research: scrap
+research: item-scrap
 shownPlanets: [
     serpulo, test
 ]

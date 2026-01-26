@@ -1,7 +1,7 @@
 hardness: 0
 name: item-coal 3dplate
 color: 383636
-research: coal_plate
+research: item-coal_plate
 shownPlanets: [
     serpulo, test
 ]

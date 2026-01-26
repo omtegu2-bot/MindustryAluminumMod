@@ -1,7 +1,7 @@
 hardness: 0
 name: item-pyratite 3dplate
 color: f59e5c
-research: pyratite_plate
+research: item-pyratite_plate
 shownPlanets: [
     serpulo, test
 ]

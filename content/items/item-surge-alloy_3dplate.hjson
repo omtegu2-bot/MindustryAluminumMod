@@ -1,7 +1,7 @@
 hardness: 0
 name: item-surge-alloy 3dplate
 color: efd77c
-research: surge-alloy_plate
+research: item-surge-alloy_plate
 shownPlanets: [
     serpulo, test
 ]

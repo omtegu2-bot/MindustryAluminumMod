@@ -1,7 +1,7 @@
 hardness: 0
 name: item-beryllium plate
 color: 6cb26f
-research: beryllium_bolt
+research: item-beryllium_bolt
 shownPlanets: [
     serpulo, test
 ]

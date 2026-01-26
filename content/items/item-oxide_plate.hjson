@@ -1,7 +1,7 @@
 hardness: 0
 name: item-oxide plate
 color: e8ebc7
-research: oxide_bolt
+research: item-oxide_bolt
 shownPlanets: [
     serpulo, test
 ]

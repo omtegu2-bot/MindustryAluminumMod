@@ -1,7 +1,7 @@
 hardness: 0
 name: item-tungsten bolt
 color: 7e8fa5
-research: tungsten
+research: item-tungsten
 shownPlanets: [
     serpulo, test
 ]

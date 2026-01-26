@@ -1,7 +1,7 @@
 hardness: 0
 name: item-phase-fabric bolt
 color: fcd3af
-research: phase-fabric
+research: item-phase-fabric
 shownPlanets: [
     serpulo, test
 ]

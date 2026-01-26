@@ -1,7 +1,7 @@
 hardness: 0
 name: item-oxide bolt
 color: e0e9c3
-research: oxide
+research: item-oxide
 shownPlanets: [
     serpulo, test
 ]

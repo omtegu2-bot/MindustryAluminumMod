@@ -1,7 +1,7 @@
 hardness: 0
 name: item-sand wafer
 color: f4ca9c
-research: sand_bolt
+research: item-sand_bolt
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
 name: item-lead bolt
 color: 9284b1
-research: lead
+research: item-lead
 shownPlanets: [
     serpulo, test
 ]

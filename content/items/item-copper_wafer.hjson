@@ -1,7 +1,7 @@
 hardness: 0
 name: item-copper wafer
 color: dba78a
-research: copper_bolt
+research: item-copper_bolt
 shownPlanets: [
     serpulo, test
 ]
