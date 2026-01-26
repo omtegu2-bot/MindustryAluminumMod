@@ -1,7 +1,0 @@
-hardness: 0
-name: item-blast-compound wafer
-color: e57a56
-research: blast-compound_bolt
-shownPlanets: [
-    serpulo, test
-]

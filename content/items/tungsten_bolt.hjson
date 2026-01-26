@@ -1,0 +1,7 @@
+hardness: 0
+name: Tungsten Bolt
+color: 7e8fa5
+research: tungsten
+shownPlanets: [
+    serpulo, test
+]

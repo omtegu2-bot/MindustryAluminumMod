@@ -1,0 +1,7 @@
+hardness: 0
+name: Plastanium 3dplate
+color: d2df8f
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

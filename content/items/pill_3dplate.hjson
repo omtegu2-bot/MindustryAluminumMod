@@ -1,7 +1,7 @@
 hardness: 0
-name: pill 3dplate
+name: Pill 3dplate
 color: c2a0c5
-research: pill_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

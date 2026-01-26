@@ -1,7 +1,0 @@
-hardness: 0
-name: item-thorium wafer
-color: cbaac1
-research: thorium_bolt
-shownPlanets: [
-    serpulo, test
-]

@@ -1,0 +1,7 @@
+hardness: 0
+name: Pyratite 3dplate
+color: f59e5c
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

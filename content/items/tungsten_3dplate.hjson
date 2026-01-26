@@ -1,0 +1,7 @@
+hardness: 0
+name: Tungsten 3dplate
+color: 8393aa
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

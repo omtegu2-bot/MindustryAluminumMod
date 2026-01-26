@@ -1,0 +1,7 @@
+hardness: 0
+name: Spore-pod 3dplate
+color: 8363ce
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

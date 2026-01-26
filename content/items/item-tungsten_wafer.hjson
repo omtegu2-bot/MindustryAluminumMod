@@ -1,7 +1,0 @@
-hardness: 0
-name: item-tungsten wafer
-color: 8394ab
-research: tungsten_bolt
-shownPlanets: [
-    serpulo, test
-]

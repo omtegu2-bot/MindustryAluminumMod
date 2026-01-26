@@ -1,7 +1,0 @@
-hardness: 0
-name: item-beryllium bolt
-color: 5ea36a
-research: beryllium
-shownPlanets: [
-    serpulo, test
-]

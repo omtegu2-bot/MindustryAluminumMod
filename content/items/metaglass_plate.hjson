@@ -1,0 +1,7 @@
+hardness: 0
+name: Metaglass Plate
+color: f2f2f7
+research: metaglass_bolt
+shownPlanets: [
+    serpulo, test
+]

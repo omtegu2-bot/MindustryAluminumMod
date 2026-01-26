@@ -1,0 +1,7 @@
+hardness: 0
+name: Dormant-cyst Wafer
+color: e19153
+research: dormant-cyst_bolt
+shownPlanets: [
+    serpulo, test
+]

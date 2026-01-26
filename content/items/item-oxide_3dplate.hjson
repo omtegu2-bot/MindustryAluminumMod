@@ -1,7 +1,0 @@
-hardness: 0
-name: item-oxide 3dplate
-color: e3e7c2
-research: oxide_plate
-shownPlanets: [
-    serpulo, test
-]

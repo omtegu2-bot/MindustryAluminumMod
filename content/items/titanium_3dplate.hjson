@@ -1,0 +1,7 @@
+hardness: 0
+name: Titanium 3dplate
+color: 94a2ea
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

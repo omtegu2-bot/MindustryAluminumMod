@@ -1,0 +1,7 @@
+hardness: 0
+name: Metaglass Wafer
+color: f0f1f6
+research: metaglass_bolt
+shownPlanets: [
+    serpulo, test
+]

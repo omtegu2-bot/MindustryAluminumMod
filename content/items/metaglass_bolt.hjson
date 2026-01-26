@@ -1,0 +1,7 @@
+hardness: 0
+name: Metaglass Bolt
+color: edeef4
+research: metaglass
+shownPlanets: [
+    serpulo, test
+]

@@ -1,7 +1,0 @@
-hardness: 0
-name: item-metaglass 3dplate
-color: eff0f5
-research: metaglass_plate
-shownPlanets: [
-    serpulo, test
-]

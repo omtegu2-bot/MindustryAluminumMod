@@ -1,7 +1,7 @@
 hardness: 0
-name: liquid-nitrogen 3dplate
+name: Liquid-nitrogen 3dplate
 color: ece6f3
-research: liquid-nitrogen_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

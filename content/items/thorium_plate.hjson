@@ -1,0 +1,7 @@
+hardness: 0
+name: Thorium Plate
+color: c7acc1
+research: thorium_bolt
+shownPlanets: [
+    serpulo, test
+]

@@ -1,7 +1,7 @@
 hardness: 0
-name: liquid-gallium 3dplate
+name: Liquid-gallium 3dplate
 color: babac8
-research: liquid-gallium_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

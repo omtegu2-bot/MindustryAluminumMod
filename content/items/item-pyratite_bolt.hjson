@@ -1,7 +1,0 @@
-hardness: 0
-name: item-pyratite bolt
-color: f59f5c
-research: pyratite
-shownPlanets: [
-    serpulo, test
-]

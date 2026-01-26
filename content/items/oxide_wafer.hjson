@@ -1,0 +1,7 @@
+hardness: 0
+name: Oxide Wafer
+color: e5eac6
+research: oxide_bolt
+shownPlanets: [
+    serpulo, test
+]

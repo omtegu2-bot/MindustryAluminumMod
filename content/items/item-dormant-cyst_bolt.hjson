@@ -1,7 +1,0 @@
-hardness: 0
-name: item-dormant-cyst bolt
-color: de8a50
-research: dormant-cyst
-shownPlanets: [
-    serpulo, test
-]

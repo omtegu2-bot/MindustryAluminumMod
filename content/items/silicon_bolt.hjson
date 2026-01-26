@@ -1,0 +1,7 @@
+hardness: 0
+name: Silicon Bolt
+color: 737580
+research: silicon
+shownPlanets: [
+    serpulo, test
+]

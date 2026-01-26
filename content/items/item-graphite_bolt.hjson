@@ -1,7 +1,0 @@
-hardness: 0
-name: item-graphite bolt
-color: 7a8ab6
-research: graphite
-shownPlanets: [
-    serpulo, test
-]

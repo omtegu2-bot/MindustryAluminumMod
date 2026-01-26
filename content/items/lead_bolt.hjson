@@ -1,0 +1,7 @@
+hardness: 0
+name: Lead Bolt
+color: 9284b1
+research: lead
+shownPlanets: [
+    serpulo, test
+]

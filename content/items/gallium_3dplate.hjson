@@ -1,7 +1,7 @@
 hardness: 0
-name: gallium 3dplate
+name: Gallium 3dplate
 color: c2c4cd
-research: gallium_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

@@ -1,0 +1,7 @@
+hardness: 0
+name: Silicon Wafer
+color: 777984
+research: silicon_bolt
+shownPlanets: [
+    serpulo, test
+]

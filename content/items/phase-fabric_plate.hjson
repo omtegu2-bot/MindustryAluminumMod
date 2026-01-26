@@ -1,0 +1,7 @@
+hardness: 0
+name: Phase-fabric Plate
+color: fcdbb9
+research: phase-fabric_bolt
+shownPlanets: [
+    serpulo, test
+]

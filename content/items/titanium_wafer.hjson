@@ -1,0 +1,7 @@
+hardness: 0
+name: Titanium Wafer
+color: 95a3ea
+research: titanium_bolt
+shownPlanets: [
+    serpulo, test
+]

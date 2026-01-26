@@ -1,0 +1,7 @@
+hardness: 0
+name: Blast-compound Plate
+color: e57b56
+research: blast-compound_bolt
+shownPlanets: [
+    serpulo, test
+]

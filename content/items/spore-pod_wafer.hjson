@@ -1,0 +1,7 @@
+hardness: 0
+name: Spore-pod Wafer
+color: 8363cf
+research: spore-pod_bolt
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: Phase-fabric 3dplate
+color: fbd6b5
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]
