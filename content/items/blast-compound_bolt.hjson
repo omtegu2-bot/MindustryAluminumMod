@@ -1,7 +1,0 @@
-hardness: 0
-name: Blast-compound Bolt
-color: e77857
-research: blast-compound
-shownPlanets: [
-    serpulo, test
-]

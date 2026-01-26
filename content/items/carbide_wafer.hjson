@@ -1,7 +1,0 @@
-hardness: 0
-name: Carbide Wafer
-color: 9f85ab
-research: carbide_bolt
-shownPlanets: [
-    serpulo, test
-]

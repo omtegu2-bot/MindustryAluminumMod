@@ -1,7 +1,0 @@
-hardness: 0
-name: Phase-fabric Wafer
-color: fcd8b5
-research: phase-fabric_bolt
-shownPlanets: [
-    serpulo, test
-]

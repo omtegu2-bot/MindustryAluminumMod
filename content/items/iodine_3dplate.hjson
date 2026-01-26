@@ -1,7 +1,7 @@
 hardness: 0
-name: Iodine 3dplate
+name: iodine 3dplate
 color: e08dc5
-research: aluminumcopper
+research: iodine_plate
 shownPlanets: [
     serpulo, test
 ]

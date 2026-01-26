@@ -1,7 +1,0 @@
-hardness: 0
-name: Fissile-matter Bolt
-color: 6c9d8d
-research: fissile-matter
-shownPlanets: [
-    serpulo, test
-]

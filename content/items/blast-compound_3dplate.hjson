@@ -1,7 +1,0 @@
-hardness: 0
-name: Blast-compound 3dplate
-color: e37955
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

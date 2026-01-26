@@ -1,7 +1,0 @@
-hardness: 0
-name: Scrap 3dplate
-color: b39983
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

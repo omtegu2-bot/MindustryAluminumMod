@@ -1,7 +1,7 @@
 hardness: 0
-name: Liquid-ozone 3dplate
+name: liquid-ozone 3dplate
 color: f3b2bf
-research: aluminumcopper
+research: liquid-ozone_plate
 shownPlanets: [
     serpulo, test
 ]

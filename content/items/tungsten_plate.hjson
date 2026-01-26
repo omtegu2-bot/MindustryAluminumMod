@@ -1,7 +1,0 @@
-hardness: 0
-name: Tungsten Plate
-color: 8797ae
-research: tungsten_bolt
-shownPlanets: [
-    serpulo, test
-]

@@ -1,7 +1,0 @@
-hardness: 0
-name: Metaglass 3dplate
-color: eff0f5
-research: aluminumcopper
-shownPlanets: [
-    serpulo, test
-]

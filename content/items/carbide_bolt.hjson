@@ -1,7 +1,0 @@
-hardness: 0
-name: Carbide Bolt
-color: 977fa6
-research: carbide
-shownPlanets: [
-    serpulo, test
-]
