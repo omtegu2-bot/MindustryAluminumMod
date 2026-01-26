@@ -1,0 +1,7 @@
+hardness: 0
+name: Dormant-cyst Plate
+color: e49655
+research: dormant-cyst_bolt
+shownPlanets: [
+    serpulo, test
+]

@@ -1,0 +1,7 @@
+hardness: 0
+name: Coal Bolt
+color: 393838
+research: coal
+shownPlanets: [
+    serpulo, test
+]

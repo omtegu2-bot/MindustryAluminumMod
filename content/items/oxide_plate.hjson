@@ -1,0 +1,7 @@
+hardness: 0
+name: Oxide Plate
+color: e8ebc7
+research: oxide_bolt
+shownPlanets: [
+    serpulo, test
+]

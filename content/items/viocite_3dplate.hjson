@@ -1,7 +1,7 @@
 hardness: 0
-name: viocite 3dplate
+name: Viocite 3dplate
 color: 8268a8
-research: viocite_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

@@ -1,7 +1,7 @@
 hardness: 0
-name: trateium 3dplate
+name: Trateium 3dplate
 color: 7f91bd
-research: trateium_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

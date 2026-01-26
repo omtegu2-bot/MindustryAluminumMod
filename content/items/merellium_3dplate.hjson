@@ -1,7 +1,7 @@
 hardness: 0
-name: merellium 3dplate
+name: Merellium 3dplate
 color: 78db8a
-research: merellium_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

@@ -1,0 +1,7 @@
+hardness: 0
+name: Copper Plate
+color: ddaa8e
+research: copper_bolt
+shownPlanets: [
+    serpulo, test
+]

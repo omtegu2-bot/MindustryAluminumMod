@@ -1,0 +1,7 @@
+hardness: 0
+name: Lead Wafer
+color: 9688b6
+research: lead_bolt
+shownPlanets: [
+    serpulo, test
+]

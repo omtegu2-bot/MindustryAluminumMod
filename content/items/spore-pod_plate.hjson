@@ -1,0 +1,7 @@
+hardness: 0
+name: Spore-pod Plate
+color: 8766d1
+research: spore-pod_bolt
+shownPlanets: [
+    serpulo, test
+]

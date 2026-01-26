@@ -1,0 +1,7 @@
+hardness: 0
+name: Carbide 3dplate
+color: 9e84ab
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

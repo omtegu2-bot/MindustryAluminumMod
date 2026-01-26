@@ -1,0 +1,7 @@
+hardness: 0
+name: Titanium Bolt
+color: 92a0e8
+research: titanium
+shownPlanets: [
+    serpulo, test
+]

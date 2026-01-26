@@ -1,7 +1,7 @@
 hardness: 0
-name: liquid-water 3dplate
+name: Liquid-water 3dplate
 color: 5974d1
-research: liquid-water_plate
+research: aluminumcopper
 shownPlanets: [
     serpulo, test
 ]

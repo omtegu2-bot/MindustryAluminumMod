@@ -1,0 +1,7 @@
+hardness: 0
+name: Oxide Bolt
+color: e0e9c3
+research: oxide
+shownPlanets: [
+    serpulo, test
+]

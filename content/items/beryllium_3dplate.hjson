@@ -1,0 +1,7 @@
+hardness: 0
+name: Beryllium 3dplate
+color: 69ab6d
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

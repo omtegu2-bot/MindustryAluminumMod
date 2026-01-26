@@ -1,0 +1,7 @@
+hardness: 0
+name: Surge-alloy 3dplate
+color: efd77c
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]

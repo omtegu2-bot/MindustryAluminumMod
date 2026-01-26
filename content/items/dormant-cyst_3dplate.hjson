@@ -1,0 +1,7 @@
+hardness: 0
+name: Dormant-cyst 3dplate
+color: e09052
+research: aluminumcopper
+shownPlanets: [
+    serpulo, test
+]
